@@ -1,0 +1,14 @@
+﻿  App.cpp
+  app_main.cpp
+  Circle.cpp
+c:\users\caleb moriarty\desktop\spaceships\circle.cpp(10): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\spaceships\circle.cpp(11): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\caleb moriarty\desktop\spaceships\circle.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GlutApp.cpp
+c:\users\caleb moriarty\desktop\spaceships\glutapp.cpp(42): warning C4305: '-=': truncation from 'double' to 'float'
+  Rectangle.cpp
+  Triangle.cpp
+  Generating Code...
+App.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  glutapp.vcxproj -> C:\Users\Caleb Moriarty\Desktop\Spaceships\visualc15\obj\glutapp_Debug\glutapp.exe
+  glutapp.vcxproj -> obj\glutapp_Debug\glutapp.pdb (Full PDB)

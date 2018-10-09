@@ -1,0 +1,63 @@
+﻿  App.cpp
+c:\users\caleb moriarty\desktop\glutapptemplate\missile.h(16): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\missile.h(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\missile.h(25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\asteroid.h(21): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\asteroid.h(101): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\asteroid.h(102): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\asteroid.h(108): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\asteroid.h(110): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\asteroid.h(116): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\asteroid.h(118): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\asteroid.h(130): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\asteroid.h(133): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\asteroid.h(136): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\asteroid.h(139): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(35): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(93): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(94): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(95): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(96): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(97): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(111): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(114): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(117): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(120): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(124): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(125): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(126): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(127): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(128): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(129): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(136): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(141): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(146): warning C4018: '<': signed/unsigned mismatch
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\caleb moriarty\desktop\glutapptemplate\ship.h(157): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\score.h(27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\score.h(29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(176): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(177): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(178): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(179): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(184): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(185): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(186): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(187): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(192): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(193): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(194): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(195): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(200): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(201): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(202): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(203): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(211): warning C4018: '<': signed/unsigned mismatch
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(212): warning C4018: '<': signed/unsigned mismatch
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(228): warning C4018: '<': signed/unsigned mismatch
+c:\users\caleb moriarty\desktop\glutapptemplate\app.cpp(249): warning C4018: '<': signed/unsigned mismatch
+  glutapp.vcxproj -> C:\Users\Caleb Moriarty\Desktop\GlutAppTemplate\visualc15\obj\glutapp_Debug\glutapp.exe
+  glutapp.vcxproj -> obj\glutapp_Debug\glutapp.pdb (Full PDB)
